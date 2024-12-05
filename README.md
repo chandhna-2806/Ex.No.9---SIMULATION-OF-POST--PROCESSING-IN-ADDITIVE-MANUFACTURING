@@ -34,21 +34,31 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+![1](https://github.com/user-attachments/assets/af274f12-3d87-4f27-8094-c0d5c93f485c)
+![2](https://github.com/user-attachments/assets/4f04ce01-785f-4905-bf70-62a3bfb1b1bd)
+
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+![11](https://github.com/user-attachments/assets/8e631d29-239d-499f-90cd-81d2e88b4550)
+![12](https://github.com/user-attachments/assets/b11ef250-dc31-4bdc-901b-2978dfefe7f0)
+
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+![21](https://github.com/user-attachments/assets/5529ddb0-021c-4426-9965-632eb5bf42c6)
+![22](https://github.com/user-attachments/assets/85e1fef7-0162-49cf-b010-ad6bc2048190)
+
 
 ## Output:
 
-### Name:
-### Register Number:
+![Screenshot 2024-12-04 111155](https://github.com/user-attachments/assets/fdc4c425-61c6-48a8-9f0e-1e8b7ee1eba7)
+
+![Screenshot 2024-12-04 111212](https://github.com/user-attachments/assets/90e9ecd1-2540-42fc-97ca-32b3d2edd0f4)
+
+![Screenshot 2024-12-04 111248](https://github.com/user-attachments/assets/aa9c250d-77e8-4692-ad2c-530d8ff943e1)
+
+
+### Name:A Chandhna
+### Register Number: 24900265
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
